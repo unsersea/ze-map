@@ -1,6 +1,6 @@
 # ze-map
 
-- Gamebanana: ***Coca Pepsi***
+- gamebanana info: ***Coca Pepsi***
 
 - [x] ze_surf_inboxed_s512
 - [ ] ze_end_of_horror_v1
